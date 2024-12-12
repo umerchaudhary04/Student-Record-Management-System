@@ -166,8 +166,7 @@ int main()
 
  Example Output:
 
-_______________________________________________________________________
-
+```
 Press 1 to Enter data
 
 Press 2 to Show data
@@ -200,7 +199,7 @@ Press 5 to Delete data
 
 Press 6 to Quit
 
-_______________________________________________________________________
+```
 
 
  Future Improvements:
